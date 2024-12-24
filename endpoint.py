@@ -10,7 +10,7 @@ def get_db_connection():
         connection = mysql.connector.connect(
             host='127.0.0.1',
             user='root',
-            password='Madhu@29',
+            password='your_password',
             database='StudentDB'
         )
         return connection
