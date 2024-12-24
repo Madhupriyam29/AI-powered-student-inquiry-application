@@ -12,8 +12,8 @@ cohere_api_key = 'API_KEY'  # Replace with your actual Cohere API Key
 co = cohere.Client(cohere_api_key)
 
 # Paths to your CSV files
-studentsmaster_file = r"C:\Users\Admin\Downloads\studentsmaster.csv"
-studentsmarks_file = r"C:\Users\Admin\Downloads\studentsmarks.csv"
+studentsmaster_file = r"studentsmaster.csv"
+studentsmarks_file = r"studentsmarks.csv"
 
 # Load the CSV files into pandas DataFrames
 def load_students_data():
