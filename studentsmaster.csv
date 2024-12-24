@@ -1,0 +1,22 @@
+StudentName,Gender,DOB,FatherName,MotherName,FathersOccupation,FathersIncome,BloodGroup,Address,City,State,DateOfJoining,DateOfRecordCreation,UniqueStudentRegNo
+John Doe,Male,2005-05-15,David Doe,Jane Doe,Teacher,60000.00,O+,"123 Main St, Springfield",Springfield,IL,2024-09-01,2024-12-21 16:15:34,1
+Alice Smith,Female,2004-08-22,Robert Smith,Mary Smith,Engineer,75000.00,A+,"456 Oak Ave, Shelbyville",Shelbyville,IL,2023-08-15,2024-12-21 16:15:34,2
+Ethan Lee,Male,2005-10-10,Charles Lee,Emma Lee,Doctor,100000.00,B-,"789 Pine Rd, Centerville",Centerville,OH,2024-09-05,2024-12-21 16:15:34,3
+Sophia Brown,Female,2006-03-12,William Brown,Olivia Brown,Businessman,85000.00,O-,"321 Birch Ln, Riverton",Riverton,NJ,2023-09-12,2024-12-21 16:15:34,4
+Liam Johnson,Male,2005-01-18,Daniel Johnson,Isabella Johnson,Scientist,95000.00,A-,"987 Elm St, Westbrook",Westbrook,CA,2023-07-22,2024-12-21 16:15:34,6
+Olivia White,Female,2005-06-20,Brian White,Sophia White,Artist,55000.00,O+,"123 Maple St, Forest City",Forest City,TX,2024-08-15,2024-12-21 16:15:34,7
+James Williams,Male,2005-09-25,Anthony Williams,Rachel Williams,Architect,78000.00,B+,"741 Pine Ave, Harborview",Harborview,FL,2023-06-18,2024-12-21 16:15:34,8
+Avery Martinez,Female,2004-11-14,Joshua Martinez,Natalie Martinez,Pilot,120000.00,A+,"852 Spruce Ln, Pinehill",Pinehill,CO,2023-05-10,2024-12-21 16:15:34,9
+Benjamin Harris,Male,2005-07-02,Samuel Harris,Emma Harris,Lawyer,110000.00,AB-,"963 Willow Rd, Oakwood",Oakwood,NY,2024-09-18,2024-12-21 16:15:34,10
+John DoMark,Male,2005-06-15,Michael Doe,Sarah Doe,Engineer,50000.00,O+,123 Main Street,Chennai,Tamil Nadu,2024-06-01,2024-12-22 16:15:34,11
+waston Doe,Male,2005-06-15,Michael Doe,Sarah Doe,Engineer,40000.00,A+,4123 west Street,bengal,west bengal,2024-06-01,2024-12-22 16:15:34,12
+Amit Kumar,Male,2005-04-12,Rajesh Kumar,Suman Kumar,Construction Worker,18000.00,B+,1234 Riverside Lane,Mumbai,MH,2022-06-20,2024-01-01 00:00:00,13
+Priya Sharma,Female,2006-02-25,Sunil Sharma,Anjali Sharma,Laborer,16000.00,O+,56 Sunlight Street,Delhi,DL,2023-01-10,2024-01-01 00:00:00,14
+Ravi Yadav,Male,2005-11-08,Vijay Yadav,Nisha Yadav,Farmer,14000.00,A+,789 Greenfield Avenue,Lucknow,UP,2022-07-15,2024-01-01 00:00:00,15
+Meera Patel,Female,2006-07-18,Vijay Patel,Poonam Patel,Auto Driver,17000.00,AB-,101 Park Road,Ahmedabad,GJ,2022-09-05,2024-01-01 00:00:00,16
+Vikram Reddy,Male,2005-09-30,Surya Reddy,Geetha Reddy,Construction Worker,15000.00,B-,2021 Eastwood Lane,Hyderabad,TG,2022-08-19,2024-01-01 00:00:00,17
+Neha Verma,Female,2006-05-14,Arvind Verma,Sita Verma,Driver,13000.00,O-,303 Bluebell Road,Bhopal,MP,2022-08-22,2024-01-01 00:00:00,18
+Shivam Gupta,Male,2005-10-02,Krishan Gupta,Aarti Gupta,Mason,12000.00,A-,453 Highpoint Blvd,Jaipur,RJ,2022-11-12,2024-01-01 00:00:00,19
+Sonal Kapoor,Female,2006-03-28,Anil Kapoor,Rekha Kapoor,Tailor,14000.00,B+,778 Parkview Crescent,Chandigarh,CH,2022-10-30,2024-01-01 00:00:00,20
+Suresh Choudhary,Male,2005-01-19,Babu Choudhary,Meena Choudhary,Rickshaw Puller,11000.00,O+,123 Outer Circle,Kolkata,WB,2022-06-15,2024-01-01 00:00:00,21
+Nidhi Jain,Female,2006-08-04,Ramesh Jain,Rekha Jain,Laborer,19000.00,AB+,290 Sector 12,Noida,UP,2022-09-22,2024-01-01 00:00:00,22
