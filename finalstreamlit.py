@@ -8,7 +8,7 @@ import seaborn as sns
 from streamlit import components
 
 # Cohere API setup for the AI Assistant functionality
-cohere_api_key = 'gEVvUkArxJxDkXxwZnRCAVEWWZSkOMygCXSu0xdX'  # Replace with your actual Cohere API Key
+cohere_api_key = 'API_KEY'  # Replace with your actual Cohere API Key
 co = cohere.Client(cohere_api_key)
 
 # Paths to your CSV files
